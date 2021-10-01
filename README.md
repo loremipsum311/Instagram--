@@ -1,4 +1,4 @@
-# Instagram Bruter
+# Instagram Bruter old Version by Bitwise01
 
 [![Version](https://img.shields.io/badge/Version-v2.1.1-blue)]()
 [![Python](https://img.shields.io/badge/Python-v3.6%2B-blue)]()
